@@ -1,5 +1,5 @@
 const axiosInstance = axios.create({
-    baseURL : 'https://booking-appointment-app.onrender.com'
+    baseURL : 'https://booking-appointment-app-backend.onrender.com/api'
 });
 
 function validate () {
